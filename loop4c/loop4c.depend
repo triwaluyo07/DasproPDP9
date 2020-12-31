@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512303469 source:d:\pdp9\loop4c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1512364662 source:f:\daspro\pdp9\loop4c\main.c
+	<stdio.h>
+	<stdlib.h>
+

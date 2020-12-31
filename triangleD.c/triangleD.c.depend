@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512367974 source:e:\daspro\pdp9\triangled.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1512382552 source:f:\daspro\pdp9\triangled.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

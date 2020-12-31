@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512380984 source:f:\daspro\pdp9\trianglec.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1512388984 source:e:\daspro\pdp9\trianglec.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

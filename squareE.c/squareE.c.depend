@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512461312 source:f:\daspro\pdp9\squaree.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
